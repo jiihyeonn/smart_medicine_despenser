@@ -17,15 +17,7 @@
 	$options = array(
 			'title' => 'illumination temperature humidity',
 			'width' => 1000, 'height' => 400,
-			'curveType' => 'function',
-      'vAxis' => array(
-        'minValue' => 20,
-        'maxValue' => 40,
-        'viweWindow' => array(
-          'min' => 20,
-          'max' => 40
-          )
-        )
+			'curveType' => 'function'
 			);
 
 ?>
